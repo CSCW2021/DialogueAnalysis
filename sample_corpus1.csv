@@ -1,0 +1,49 @@
+UtteranceNo,SessionID,UserID,Speaker,Utterance,TAG
+1,Sess1 ,Sess1 _S1,S1,Hi,G
+2,Sess1 ,Sess1 _S2,S2,hey,G
+3,Sess1 ,Sess1 _S1,S1,what are we doing?,Q
+4,Sess1 ,Sess1 _S2,S2,We are making an X project,A
+5,Sess1 ,Sess1 _S1,S1,okay,ACK
+6,Sess1 ,Sess1 _S2,S2,We can start by cretaing a function ,S
+7,Sess1 ,Sess1 _S1,S1,"Okay, I will create the first one ",S
+8,Sess1 ,Sess1 _S2,S2,I will work on the second one,S
+9,Sess1 ,Sess1 _S1,S1,Perf,ACK
+1,Sess2,Sess2_S1,S1,hey,G
+2,Sess2,Sess2_S2,S2,Sup,G
+3,Sess2,Sess2_S1,S1,"I'm good, you?",G
+4,Sess2,Sess2_S2,S2,we can do this,FP
+5,Sess2,Sess2_S1,S1,"Yeah, lets do it",FP
+6,Sess2,Sess2_S2,S2,Imma do the first function thingy,S
+7,Sess2,Sess2_S1,S1,cool,ACK
+8,Sess2,Sess2_S2,S2,Let me run it and see,S
+9,Sess2,Sess2_S1,S1,sure,ACK
+10,Sess2,Sess2_S2,S2,it works,FP
+11,Sess2,Sess2_S1,S1,we good,S
+1,Sess3,Sess3_S1,S1,What are we doing here?,Q
+2,Sess3,Sess3_S2,S2,I think the first task,U
+3,Sess3,Sess3_S1,S1,"okay, but where do we start?",Q
+4,Sess3,Sess3_S2,S2,I'll make the first function and see if it works ,S
+5,Sess3,Sess3_S1,S1,okay,ACK
+6,Sess3,Sess3_S2,S2,it works,FP
+7,Sess3,Sess3_S1,S1,I'll do the second one then,S
+8,Sess3,Sess3_S2,S2,sure,ACK
+9,Sess3,Sess3_S1,S1,are we done now?,Q
+10,Sess3,Sess3_S2,S2,yeah,A
+1,Sess4,Sess4_S1,S1,hey,G
+2,Sess4,Sess4_S2,S2,"hi, we should try and get this done asap",SUG
+3,Sess4,Sess4_S1,S1,agreed,AC
+4,Sess4,Sess4_S2,S2,I got the first part,S
+5,Sess4,Sess4_S1,S1,"okay, I'lldo the seond problem",S
+6,Sess4,Sess4_S2,S2,cool,ACK
+7,Sess4,Sess4_S1,S1,we make a good team ,S
+8,Sess4,Sess4_S2,S2,we sure do ,AC
+1,Sess5,Sess5_S1,S1,hi,G
+2,Sess5,Sess5_S2,S2,hey,G
+3,Sess5,Sess5_S1,S1,you watch the game last night?,O
+4,Sess5,Sess5_S2,S2,which game?,O
+5,Sess5,Sess5_S1,S1,"football, we won",O
+6,Sess5,Sess5_S2,S2,"oh no, I didnÕt ",O
+7,Sess5,Sess5_S1,S1,we smoked the other team tho lol,O
+8,Sess5,Sess5_S2,S2,Our team is good this year,O
+9,Sess5,Sess5_S1,S1,"true, what are we doing here tho?",Q
+10,Sess5,Sess5_S2,S2,making this thing move oor something,S
